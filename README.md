@@ -1,3 +1,5 @@
 # math-rose
 
-Code for creating a mathematical rose with thier outputs.
+Code for creating a mathematical rose in R.
+
+Outputs are also added
